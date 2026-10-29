@@ -56,7 +56,7 @@ export default function App() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-serif font-bold text-rose-950">
-            Nuestro Tiempo
+            Nuestro Tiempo Juntos
           </h1>
           
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 mt-8 w-full max-w-4xl">
@@ -92,11 +92,11 @@ export default function App() {
           <div className="bg-white/80 p-8 md:p-12 rounded-[3rem] border border-rose-100 shadow-xl backdrop-blur-xl relative">
             <Heart className="w-8 h-8 text-rose-300 absolute top-8 left-8" />
             <div className="text-center space-y-6">
-              <h2 className="text-3xl font-serif font-bold text-rose-900 italic">Para Aranza, mi amor</h2>
+              <h2 className="text-3xl font-serif font-bold text-rose-900 italic">Para Aranza, mi Barbie</h2>
               <div className="text-rose-800/80 leading-relaxed space-y-4 font-light text-lg">
-                <p>Aranza, cada momento a tu lado ha sido un regalo que atesoro con todo mi corazón.</p>
-                <p>De verdad quiero compartir mi futuro contigo, caminar de la mano en cada paso de nuestras vidas. No puedo esperar para ver lo que Dios tiene preparado para nosotros; sé que será maravilloso porque estaremos juntos.</p>
-                <p className="font-semibold text-rose-950 pt-4">Te amo profundamente, Mauricio.</p>
+                <p> Mi amor, cada momento a tu lado ha sido un regalo que guardo con todo mi corazón.</p>
+                <p>De verdad quiero compartir mi futuro contigo, caminar de la mano en cada paso de nuestras vidas. No puedo esperar para ver lo que Dios tiene preparado para nosotros; sé que será muy bonito porque estaremos juntos.</p>
+                <p className="font-semibold text-rose-950 pt-4">Te amo demsaiado, Mau tu inge.</p>
               </div>
             </div>
             <Heart className="w-8 h-8 text-rose-300 absolute bottom-8 right-8" />
